@@ -11,12 +11,12 @@ Focuser:
 | id | Part                           | Dimensions                                           | Material          | Qty   | Ref  | notes                                                       |
 | -- | ------------------------------ | ---------------------------------------------------- | ----------------- | ----- | ---- | ----------------------------------------------------------- |
 | 1  | Drawtube                       | [Ref Drawing](focuser/files/focuser_1-25_drawtube.stl)              | PLA               | 1     |      |                                                             |
-| 2  | Base                           | focuser/files/focuser_1-25_base.stl                  | PLA               | 1     |      |                                                             |
-| 3  | Curved base                    | focuser/files/focuser_1-25_curved_base_10-25_dia.stl | PLA               | 1     |      | Fits 10.25” OD tube                                         |
-| 4  | Pinion pressure rod            | focuser/files/focuser_1-25_pressure_cyl.stl          | PLA               | 2     |      |                                                             |
-| 5  | Base back                      | focuser/files/focuser_1-25_back.stl                  | PLA               | 1     |      |                                                             |
-| 6  | Knob                           | focuser/files/focuser_1-25_knob.stl                  | PLA               | 2     |      |                                                             |
-| 7  | Drawtube stop                  | focuser/files/focuser_1-25_drawtube_stop_M2.stl      | PLA               | 2     |      |                                                             |
+| 2  | Base                           | [Ref Drawing](focuser/files/focuser_1-25_base.stl)                  | PLA               | 1     |      |                                                             |
+| 3  | Curved base                    | [Ref Drawing](focuser/files/focuser_1-25_curved_base_10-25_dia.stl) | PLA               | 1     |      | Fits 10.25” OD tube                                         |
+| 4  | Pinion pressure rod            | [Ref Drawing](focuser/files/focuser_1-25_pressure_cyl.stl)          | PLA               | 2     |      |                                                             |
+| 5  | Base back                      | [Ref Drawing](focuser/files/focuser_1-25_back.stl)                  | PLA               | 1     |      |                                                             |
+| 6  | Knob                           | [Ref Drawing](focuser/files/focuser_1-25_knob.stl)                  | PLA               | 2     |      |                                                             |
+| 7  | Drawtube stop                  | [Ref Drawing](focuser/files/focuser_1-25_drawtube_stop_M2.stl)      | PLA               | 2     |      |                                                             |
 | 8  | Drawtube bearing rail          | 1mm x 6mm x 60mm                                     | Aluminium / Brass | 2     |      |                                                             |
 | 9  | Drawtube pinion rail           | 1/16” x 1/2” x 60mm                                  | Aluminium         | 1     |      |                                                             |
 | 10 | M4 Philips head screw          | 4mm x 20mm                                           | Nylon             | 1     |      | Drawtube eyepiece capture screw                             |
