@@ -13,15 +13,15 @@ Focuser:
 | 1  | Drawtube                       | [Ref Drawing](focuser/files/focuser_1-25_drawtube.stl)              | PLA               | 1     |      |                                                             |
 | 2  | Base                           | [Ref Drawing](focuser/files/focuser_1-25_base.stl)                  | PLA               | 1     |      |                                                             |
 | 3  | Curved base                    | [Ref Drawing](focuser/files/focuser_1-25_curved_base_10-25_dia.stl) | PLA               | 1     |      | Fits 10.25” OD tube                                         |
-| 4  | Pinion pressure rod            | [Ref Drawing](focuser/files/focuser_1-25_pressure_cyl.stl)          | PLA               | 2     |      |                                                             |
+| 4  | Pinion pressure rod            | [Ref Drawing](focuser/files/focuser-pressure_cylinder_ver2.stl)          | PLA               | 2     |      |                                                             |
 | 5  | Base back                      | [Ref Drawing](focuser/files/focuser_1-25_back.stl)                  | PLA               | 1     |      |                                                             |
-| 6  | Knob                           | [Ref Drawing](focuser/files/focuser_1-25_knob.stl)                  | PLA               | 2     |      |                                                             |
+| 6  | Knob                           | [Ref Drawing](focuser/files/focuser-knob_ver2.stl)                  | PLA               | 2     |      |                                                             |
 | 7  | Drawtube stop                  | [Ref Drawing](focuser/files/focuser_1-25_drawtube_stop_M2.stl)      | PLA               | 2     |      |                                                             |
 | 8  | Drawtube bearing rail          | 1mm x 6mm x 60mm                                     | Aluminium / Brass | 2     |      |                                                             |
 | 9  | Drawtube pinion rail           | 1/16” x 1/2” x 60mm                                  | Aluminium         | 1     |      |                                                             |
 | 10 | M4 Philips head screw          | 4mm x 20mm                                           | Nylon             | 1     |      | Drawtube eyepiece capture screw                             |
 | 11 | M3 button head hex drive screw | 3mm x 12mm                                           | Stainless         | 4+4   |      | Base back / Curved base mounting screws                     |
-| 12 | Pinion rod                     | 5mm dia x 96mm                                       | Stainless         | 1     |      |                                                             |
+| 12 | Pinion rod                     | d=4mm L=96mm                                       | Stainless         | 1     | [LM-1](https://www.leroymerlin.es/productos/ferreteria-y-seguridad/perfiles-pletinas-chapas-y-rejillas/perfiles/perfil-forma-redonda-de-acero-4mm-x-l-100-cm-80110632.html)     |                                                             |
 | 13 | Bearings                       | 8mm OD x 3mm ID x 4mm (693ZZ)                        | Stainless         | 4     | [AE-2](https://www.aliexpress.com/item/4000980546028.html?spm=a2g0o.order_list.order_list_main.11.6c1218026v9wbl) |                                                             |
 | 14 | M3 cap head hex screw          | 3mm x 20mm                                           | Stainless         | 4     |      | Bearing shafts                                              |
 | 15 | M3 flat washers                | 3mm                                                  | Stainless         | 8     |      | Bearing shaft washers                                       |
@@ -33,8 +33,14 @@ Focuser:
 | 21 | M2 heat set inserts            | 2mm x 6mm                                            | Brass             | 2     | [AE-1](https://www.aliexpress.com/item/1005003174906572.html?spm=a2g0o.order_list.order_list_main.5.21ef194dLnVGNK) | Drawtube stop inserts                                       |
 
 
+***
+
+
 https://www.leroymerlin.es/productos/ferreteria-y-seguridad/perfiles-pletinas-chapas-y-rejillas/perfiles/plano-de-aluminio-gris-alt-0-2-x-an-1-5-x-l-100-cm-80109393.html?src=clk
 https://www.bauhaus.es/perfiles-metalicos-y-de-pvc/alberts-barra-plana/p/22847159
+
+*** 
+
 bearing rails (x2):
 	w:6mm 
 	l: 60mm
