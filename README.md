@@ -1,35 +1,36 @@
+# Humboldt telescope
 <p>Mashup from Leavitt LITE (Metric)</p>
 
 <p>OTA by Aurelian on Printables: https://www.printables.com/es/model/355997-8-newtonian-telescope-leavitt-lite-metric</p>
 <p>Crayford Focuser 1 1/4 inch by scbeme on Thingiverse: https://www.thingiverse.com/thing:5167331</p>
 
+***
 
 Focuser:
 
-| id | Part                           | Dimensions            | Material  | Qty   | notes                                                       |
-| -- | ------------------------------ | --------------------- | --------- | ----- | ----------------------------------------------------------- |
-| 1  | Drawtube                       | Ref. Drawing          | PLA       | 1     |                                                             |
-| 2  | Base                           | Ref. Drawing          | PLA       | 1     |                                                             |
-| 3  | Curved base                    | Ref. Drawing          | PLA       | 1     | Fits 10.25” OD tube                                         |
-| 4  | Pinion pressure rod            | Ref. Drawing          | PLA       | 2     |                                                             |
-| 5  | Base back                      | Ref. Drawing          | PLA       | 1     |                                                             |
-| 6  | Knob                           | Ref. Drawing          | PLA       | 2     |                                                             |
-| 7  | Drawtube stop                  | Ref. Drawing          | PLA       | 2     |                                                             |
-| 8  | Drawtube bearing rail          | Ref. Drawing          | PLA       | 2     |                                                             |
-| 9  | Drawtube pinion rail           | 1/16” x 1/2” x 60mm   | Aluminium | 1     |                                                             |
-| 10 | M4 Philips head screw          | 4mm x 20mm            | Nylon     | 1     | Drawtube eyepiece capture screw                             |
-| 11 | M3 button head hex drive screw | 3mm x 12mm            | Stainless | 4+4   | Base back / Curved base mounting screws                     |
-| 12 | Pinion rod                     | 5mm dia x 96mm        | Stainless | 1     |                                                             |
-| 13 | Bearings                       | 8mm OD x 3mm ID x 4mm (693ZZ) | Stainless | 4     |                                                             |
-| 14 | M3 cap head hex screw          | 3mm x 20mm            | Stainless | 4     | Bearing shafts                                              |
-| 15 | M3 flat washers                | 3mm                   | Stainless | 8     | Bearing shaft washers                                       |
-| 16 | M3 hex nuts                    | 3mm                   | Stainless | 4     | Bearing shaft nuts                                          |
-| 17 | M3 heat set inserts            | 3mm x 6mm L           | Brass     | 4+2+4 | Base back / Knobs / Curved base                             |
-| 18 | M4 heat set inserts            | 4mm x 6mm L           | Brass     | 2     | Eyepiece capture screw insert / Optional brake screw insert |
-| 19 | M3 grub screws                 | 3mm x 6mm L           | Stainless | 2+2+4 | Knobs / Pinion pressure screws / Curved base alignment      |
-| 20 | M2 button head hex drive screw | 2mm x 8mm             | Stainless | 2     | Drawtube stops                                              |
-| 21 | M2 heat set inserts            | 2mm x 6mm             | Brass     | 2     | Drawtube stop inserts                                       |
-
+| id | Part                           | Dimensions                                           | Material          | Qty   | Ref  | notes                                                       |
+| -- | ------------------------------ | ---------------------------------------------------- | ----------------- | ----- | ---- | ----------------------------------------------------------- |
+| 1  | Drawtube                       | focuser/files/focuser_1-25_drawtube.stl              | PLA               | 1     |      |                                                             |
+| 2  | Base                           | focuser/files/focuser_1-25_base.stl                  | PLA               | 1     |      |                                                             |
+| 3  | Curved base                    | focuser/files/focuser_1-25_curved_base_10-25_dia.stl | PLA               | 1     |      | Fits 10.25” OD tube                                         |
+| 4  | Pinion pressure rod            | focuser/files/focuser_1-25_pressure_cyl.stl          | PLA               | 2     |      |                                                             |
+| 5  | Base back                      | focuser/files/focuser_1-25_back.stl                  | PLA               | 1     |      |                                                             |
+| 6  | Knob                           | focuser/files/focuser_1-25_knob.stl                  | PLA               | 2     |      |                                                             |
+| 7  | Drawtube stop                  | focuser/files/focuser_1-25_drawtube_stop_M2.stl      | PLA               | 2     |      |                                                             |
+| 8  | Drawtube bearing rail          | 1mm x 6mm x 60mm                                     | Aluminium / Brass | 2     |      |                                                             |
+| 9  | Drawtube pinion rail           | 1/16” x 1/2” x 60mm                                  | Aluminium         | 1     |      |                                                             |
+| 10 | M4 Philips head screw          | 4mm x 20mm                                           | Nylon             | 1     |      | Drawtube eyepiece capture screw                             |
+| 11 | M3 button head hex drive screw | 3mm x 12mm                                           | Stainless         | 4+4   |      | Base back / Curved base mounting screws                     |
+| 12 | Pinion rod                     | 5mm dia x 96mm                                       | Stainless         | 1     |      |                                                             |
+| 13 | Bearings                       | 8mm OD x 3mm ID x 4mm (693ZZ)                        | Stainless         | 4     | AE-2 |                                                             |
+| 14 | M3 cap head hex screw          | 3mm x 20mm                                           | Stainless         | 4     |      | Bearing shafts                                              |
+| 15 | M3 flat washers                | 3mm                                                  | Stainless         | 8     |      | Bearing shaft washers                                       |
+| 16 | M3 hex nuts                    | 3mm                                                  | Stainless         | 4     |      | Bearing shaft nuts                                          |
+| 17 | M3 heat set inserts            | 3mm x 6mm L                                          | Brass             | 4+2+4 | AE-1 | Base back / Knobs / Curved base                             |
+| 18 | M4 heat set inserts            | 4mm x 6mm L                                          | Brass             | 2     | AE-1 | Eyepiece capture screw insert / Optional brake screw insert |
+| 19 | M3 grub screws                 | 3mm x 6mm L                                          | Stainless         | 2+2+4 |      | Knobs / Pinion pressure screws / Curved base alignment      |
+| 20 | M2 button head hex drive screw | 2mm x 8mm                                            | Stainless         | 2     |      | Drawtube stops                                              |
+| 21 | M2 heat set inserts            | 2mm x 6mm                                            | Brass             | 2     | AE-1 | Drawtube stop inserts                                       |
 
 
 
