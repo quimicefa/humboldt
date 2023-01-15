@@ -22,17 +22,15 @@ Focuser:
 | 10 | M4 Philips head screw          | 4mm x 20mm                                           | Nylon             | 1     |      | Drawtube eyepiece capture screw                             |
 | 11 | M3 button head hex drive screw | 3mm x 12mm                                           | Stainless         | 4+4   |      | Base back / Curved base mounting screws                     |
 | 12 | Pinion rod                     | 5mm dia x 96mm                                       | Stainless         | 1     |      |                                                             |
-| 13 | Bearings                       | 8mm OD x 3mm ID x 4mm (693ZZ)                        | Stainless         | 4     | AE-2 |                                                             |
+| 13 | Bearings                       | 8mm OD x 3mm ID x 4mm (693ZZ)                        | Stainless         | 4     | [AE-2](https://www.aliexpress.com/item/4000980546028.html?spm=a2g0o.order_list.order_list_main.11.6c1218026v9wbl) |                                                             |
 | 14 | M3 cap head hex screw          | 3mm x 20mm                                           | Stainless         | 4     |      | Bearing shafts                                              |
 | 15 | M3 flat washers                | 3mm                                                  | Stainless         | 8     |      | Bearing shaft washers                                       |
 | 16 | M3 hex nuts                    | 3mm                                                  | Stainless         | 4     |      | Bearing shaft nuts                                          |
-| 17 | M3 heat set inserts            | 3mm x 6mm L                                          | Brass             | 4+2+4 | AE-1 | Base back / Knobs / Curved base                             |
-| 18 | M4 heat set inserts            | 4mm x 6mm L                                          | Brass             | 2     | AE-1 | Eyepiece capture screw insert / Optional brake screw insert |
+| 17 | M3 heat set inserts            | 3mm x 6mm L                                          | Brass             | 4+2+4 | [AE-1](https://www.aliexpress.com/item/1005003174906572.html?spm=a2g0o.order_list.order_list_main.5.21ef194dLnVGNK) | Base back / Knobs / Curved base                             |
+| 18 | M4 heat set inserts            | 4mm x 6mm L                                          | Brass             | 2     | [AE-1](https://www.aliexpress.com/item/1005003174906572.html?spm=a2g0o.order_list.order_list_main.5.21ef194dLnVGNK) | Eyepiece capture screw insert / Optional brake screw insert |
 | 19 | M3 grub screws                 | 3mm x 6mm L                                          | Stainless         | 2+2+4 |      | Knobs / Pinion pressure screws / Curved base alignment      |
 | 20 | M2 button head hex drive screw | 2mm x 8mm                                            | Stainless         | 2     |      | Drawtube stops                                              |
-| 21 | M2 heat set inserts            | 2mm x 6mm                                            | Brass             | 2     | AE-1 | Drawtube stop inserts                                       |
-
-
+| 21 | M2 heat set inserts            | 2mm x 6mm                                            | Brass             | 2     | [AE-1](https://www.aliexpress.com/item/1005003174906572.html?spm=a2g0o.order_list.order_list_main.5.21ef194dLnVGNK) | Drawtube stop inserts                                       |
 
 
 https://www.leroymerlin.es/productos/ferreteria-y-seguridad/perfiles-pletinas-chapas-y-rejillas/perfiles/plano-de-aluminio-gris-alt-0-2-x-an-1-5-x-l-100-cm-80109393.html?src=clk
