@@ -32,6 +32,21 @@ Focuser:
 | 20 | M2 heat set inserts            | 2mm x 6mm                                            | Brass             | 2     | [AE-1](https://www.aliexpress.com/item/1005003174906572.html?spm=a2g0o.order_list.order_list_main.5.21ef194dLnVGNK) | Drawtube stop inserts                                       |
 
 
+OTA
+| id | Part                           | Dimensions                                           | Material          | Qty   | Ref  | notes                                                       |
+| -- | ------------------------------ | ---------------------------------------------------- | ----------------- | ----- | ---- | ----------------------------------------------------------- |
+| 1  | UTA-finderscope | [Ref Drawing](xxx.stl)              | PLA               | 1     |      |   attachment to finderscope: 4x d4mm |
+| 2  | UTA-focuser | [Ref Drawing](yyy.stl)              | PLA               | 1     |      |                                                             |
+| 3  | UTA | [Ref Drawing](zzz.stl)              | PLA               | 1     |      |                                                             |
+| 4  | M5 hex screw/nut/washer | 5mm x 50mm  | Stainless     | 1     |      | secondary to spider |
+
+
+
+Attachments
+| id | Part                           | Dimensions                                           | Material          | Qty   | Ref  | notes                                                       |
+| -- | ------------------------------ | ---------------------------------------------------- | ----------------- | ----- | ---- | ----------------------------------------------------------- |
+| 1  | Finderscope                       | [Ref Drawing](focuser/attachments/humboldt-2-finderscope.stl)              | PLA               | 1     |      |    attachment to OTA: 4x d4mm, attachment to finderscope: 6x d3mm |
+
 ***
 https://www.bauhaus.es/perfiles-metalicos-y-de-pvc/alberts-barra-plana/p/22847159
 *** 
